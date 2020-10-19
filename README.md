@@ -13,9 +13,9 @@
 - Year
 - CountryCode 
 
-**Labels:** Miles per gallon<br/><br/>
+**Labels:** Miles per gallon<br/>
 
-**Algorithm:** Linear Regression<br/><br/>
+**Algorithm:** Linear Regression<br/>
 
 **Output Preview:**
 [Azure ML Studio Link](https://gallery.cortanaintelligence.com/Experiment/Predicting-Fuel-Efficiency)<br/><br/>
