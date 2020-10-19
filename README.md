@@ -1,8 +1,8 @@
 # AzureMLStudio Lab Demonstration
 
-**Dataset:** MPG Dataset for various automobiles<br/><br/>
+**Dataset:** MPG Dataset for various automobiles<br/>
 
-**Aim:** To predict fuel efficiency given specifications like no. of cylinders, horsepower, acceleration, etc.<br/><br/>
+**Aim:** To predict fuel efficiency given specifications like no. of cylinders, horsepower, acceleration, etc.<br/>
 
 **Features:**
 - No. of Cylinders
